@@ -2,4 +2,6 @@
 node_modules
 npm-debug.log
 public/app.css
+public/app.js
 public/app.min.css
+public/app.min.js
