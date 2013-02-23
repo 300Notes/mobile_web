@@ -6,8 +6,9 @@
 $ git clone git@github.com:300Notes/mobile_web.git
 
 $ make deps            # Install application dependencies
-$ make minify-sass     # Compile and minify Sass styles
-$ make compile-sass    # Compile Sass styles
+$ make clean           # Remove all generated files
+$ make minify          # Compile and minify JavaScript/Sass
+$ make compile         # Compile JavaScript/Sass
 $ make up              # Start the server
 ```
 
